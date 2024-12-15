@@ -4,8 +4,8 @@ Este repositório contém a solução desenvolvida para um desafio de um curso d
 ## 📝 Organização
 Na pasta de output terá o arquivo de planilhas produzido e também a fonte de dados que foi utilizada.
 
-[planilha](./output/planilhas_inteligentes)
-[base de dados](./output/base_de_dados)
+- [planilha](./output/planilhas_inteligentes)
+- [base de dados](./output/base_de_dados)
 
 ## 🖥️ Funcionalidades
 - Criação de gráficos dinâmicos para representar métricas principais.
